@@ -17,7 +17,7 @@ The build writes static output to `dist/`. Preview serves it at `http://localhos
 
 Involute hosted access is invitation-only. Lumen ASR is a prerelease. Plan of Plan has no declared license. Navi and Cut release installers are for macOS. These tools are independent projects; local operation does not imply completely offline operation.
 
-Product icons and eligible screenshots come from public repositories; see `ASSET_SOURCES.json` and `ASSETS.md`. The optional optical loop is ten seconds, muted and respects reduced motion. This public source excludes an interface screenshot and the full brand film containing internal host/path information. The build shows a truthful film-in-production treatment when the full film is absent.
+Product icons and eligible screenshots come from public repositories; see `ASSET_SOURCES.json` and `ASSETS.md`. The optional optical loop is ten seconds, muted and respects reduced motion. The 55-second brand film includes Chinese and English caption tracks and preserves its original music and sound effects. LumenBox is shown as an explicitly labelled functional concept animation; it does not depict a product interface. Involute remains invitation-only. The build shows a film-in-production treatment if the optional full film is absent.
 
 No credentials, machine configuration, account configuration, local QA material, browser data or deployment history belong in this repository.
 

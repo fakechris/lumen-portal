@@ -11,6 +11,6 @@
 - mReviewer example image: mreviewer, MIT; a rendered public dry-run output.
 - Plan of Plan icon: planofplan; no declared license. No additional rights are asserted here.
 
-Optical artwork, site styling, brand marks, social image and the ten-second motion loop were prepared for this website. No separate license is assigned to these assets here. The loop has no product screenshots or spoken narration. The full brand film and the LumenBox team-room screenshot are excluded from this public source.
+Optical artwork, site styling, brand marks, social image and the ten-second motion loop were prepared for this website. No separate license is assigned to these assets here. The loop has no product screenshots or spoken narration. The 55-second brand film uses the eligible public screenshots listed above, original optical motion design, concept animations, music and sound effects. The LumenBox scene (7–11 seconds) is a labelled collaboration concept animation, not a product interface. The original LumenBox team-room screenshot is excluded. Chinese and English captions accompany the film.
 
 Consult each originating repository for the complete license text and applicable notices before reuse or redistribution.
