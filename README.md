@@ -6,7 +6,7 @@ The bilingual Lumen Open website source for https://lumenopen.com. Chinese route
 
 Maintain the site from this checkout. On this machine that directory is `/Users/chris/workspace/lumenopen`.
 
-The 2026-10-01 Codex tree at `/Users/chris/Documents/Codex/2026-10-01/task-4/lumen-portal` is the original snapshot. Do not keep editing it. `1136b38` (`Clarify product discovery and release access with verified metadata`) is the revision last confirmed live on https://lumenopen.com and https://www.lumenopen.com.
+The 2026-10-01 Codex tree at `/Users/chris/Documents/Codex/2026-10-01/task-4/lumen-portal` is the original snapshot. Do not keep editing it. `31eecec` (`Refresh the bilingual portal for the published November releases`) is the revision last confirmed live on https://lumenopen.com and https://www.lumenopen.com.
 
 The site was built on 2026-10-01 in Codex on this Mac. The original task names are 「部署 Lumen Open 官网」, 「恢复官网浏览器部署」, and 「优化官网搜索与转化」.
 
